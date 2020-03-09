@@ -5,8 +5,8 @@ echo color("green"," =================================== \n");
 echo color("green"," Claim Voucher \n");
 echo color("green"," Auto Create & Redeem Voucher \n");
 echo color("green"," =================================== \n");
-echo " Created by : Vey \n";
-echo " Version    : 555 \n";
+echo " Created by : andre \n";
+echo " Version    : 5 maret \n";
 echo " Time       : ".date('d-m-Y||H:i:s')." \n";
 echo color("green"," =================================== \n");
 
